@@ -10,7 +10,7 @@ This repository contain a shopping app built using the Mern stack. please follow
 4. Checkout
 5. Discount Coupons
 
->[working Demo](http://www.mycodedesk.app)
+>[working Demo](http://www.unclefashion.in)
 
 ### Instructions
 
